@@ -7,7 +7,7 @@ Gargalo: Ineficiência no deslocamento dos colaboradores (tempo de "caça" sist�
 
 Equipe Inicial: 4 colaboradores com baixa densidade de tarefas.
 
-💡 A Solução (O "Pulo do Gato")
+💡 A Solução 
 Implementação de Roteirização Física via Folhas de Tarefas.
 
 Divisão da equipe para 8 colaboradores.
