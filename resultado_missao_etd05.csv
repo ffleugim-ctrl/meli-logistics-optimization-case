@@ -1,0 +1,7 @@
+Data,Turno,Setor,Volume_Total,SLA_Real_%,Motivo_Atraso
+2026-05-02,08:00,DV - RK Baixo,4567,98.1,Falta de Pessoal
+2026-05-02,10:00,DV - RK Baixo,3640,98.1,Falta de Pessoal
+2026-05-02,12:00,DV - RK Baixo,2713,98.1,Falta de Pessoal
+2026-05-02,14:00,DV - RK Baixo,1786,98.1,Falta de Pessoal
+2026-05-02,16:00,DV - RK Baixo,859,98.1,Falta de Pessoal
+2026-05-02,18:00,DV - RK Baixo,0,98.1,✅ ZERADO
